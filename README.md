@@ -18,4 +18,4 @@ The administratorvperforms the following operations:
 The cashier is able to:
 ● Ticket Sale - created a .txt file on disk for each ticket, with ticket details.
 ● Viewing the history of the tickets sold by him ordered by time + date (the last tickets sold being the first).
-This is a desktop application is Java, having a architectural pattern based on layers and the informations are kept in a databse, mySQL database. For accesing the informations from the database was used a pattern knowm as Table Data Gateway. 
+This is a desktop application is Java, having a architectural pattern based on layers and the information is kept in a databse, mySQL database. For accesing the information from the database was used a pattern knowm as Table Data Gateway. 
